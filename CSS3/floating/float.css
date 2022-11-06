@@ -1,0 +1,39 @@
+#div1{
+    background-color: aqua;
+}
+*{
+    box-sizing: border-box;
+    float: auto;
+}
+p{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    margin:15px;
+    
+    
+}
+#p1{
+    background-color: blue;
+    float: right;
+    
+    
+}
+#p2{
+
+    background-color: green;
+    float: right;
+    
+
+}
+#p3{
+    background-color: brown;
+    
+    
+}
+#p4{
+    background-color: yellow;
+}
+section{
+    clear:left;
+}

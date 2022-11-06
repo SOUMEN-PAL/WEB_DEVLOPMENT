@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+    
+
+body{
+    background-color: lightgrey;
+   
+    
+    
+    
+}
+#BOX{
+    background-color: aqua;
+    padding: 10px;
+    border: 5px solid black;
+    width: 300px;
+    height: 100px;
+    overflow: auto;
+    margin:20px;
+    
+    
+    
+    
+    
+
+}
+#CONTENT{
+    background-color: lightgreen;
+    padding: 16px;
+    margin: 0px;
+    border: 2.5px dashed black;
+    
+}

@@ -1,0 +1,28 @@
+div{
+    /* background-color: bisque; */
+}
+h1{
+    text-align: center;
+}
+*{
+    box-sizing: border-box;
+    
+}
+p{
+    
+    
+    width: 50%;
+    /* border: 1px solid black; */
+    float:left;
+    text-align: justify;
+    padding: 10px;
+}
+#p1{
+    /* background-color: aqua; */
+}
+#p2{
+    /* background-color: blueviolet; */
+}
+section{
+    clear: left;
+}
